@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main-container {
+    background-color: #000000;
+  }
+
+  /* .Portfolio {
+    display: flex;
+  } */
+  
+  
+  .card {
+    margin-right: 10px;
+  }
+  
+
+#hero {
+    color: #fff;
+    padding: 20px;
+}
+
+#portfolio {
+    color: #090b61;
+    padding: 20px;
+    background-color: rgb(237, 228, 245);
+}
+
+.h1, h1 {
+    font-size: 70px;
+}
+
+.portfolio-description {
+    color: #090b61;
+    font-size: 22px;
+    font-weight: bold;
+  }
+
+  #About {
+    color: #090b61;
+    padding: 20px;
+    background-color: rgb(237, 228, 245);
+}
+
+.h2, h2 {
+    font-size: 70px;
+}
+
+
+#work {
+    color: #090b61;
+    padding: 20px;
+    background-color: rgb(237, 228, 245);
+}
+
+.h3, h3 {
+    font-size: 70px;
+}
+
+.footer {
+    background-color: #000000;
+    color: #fff;
+    padding: 0px;
+    margin-bottom: -23px;
+    text-align: center;
+  }
+
+  
+  .btn {
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .btn:hover {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  }
+
+  .custom-navbar {
+    background-color: #000000;
+  }
+  
+  .custom-navbar .navbar-nav .nav-link {
+    color: #22d3c7;
+  }
+  
+  .custom-navbar .navbar-nav .nav-link:hover {
+    color: #ffffff;
+  }
+
+  .navbar-light .navbar-brand {
+    color: #000000;
+    background-color: #22d3c7;
+    font-weight: bold;
+    margin-left: -15px;
+    font-size: 50px;
+}
+
+  .navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+    color: rgba(255, 255, 255, 0.9);
+}
+  .navbar-brand {
+    display: inline-block;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+  
+  .footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .footer a:hover {
+    color: #334bb6;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  }
+
+
+  #contact {
+    color: #090b61;
+    padding: 20px;
+    background-color: rgb(237, 228, 245);
+}
+
+.h5, h5 {
+    font-size: 70px;
+}
+
+.about-description {
+    color: #090b61;
+    font-size: 22px;
+    font-weight:normal;
+    text-align: left;
+  }
+
+  #skills {
+    color: #090b61;
+    padding: 20px;
+    background-color: rgb(237, 228, 245);
+    /* border: 1px solid red; */
+}
+
+.h4, h4 {
+    font-size: 70px;
+}

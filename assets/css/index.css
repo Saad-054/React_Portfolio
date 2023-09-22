@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+}
+
+.card {
+  margin-right: 10px;
+
+
+
+  .Contact {
+    background-color: rgb(179, 78, 38);
+  
